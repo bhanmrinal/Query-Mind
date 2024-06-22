@@ -65,3 +65,11 @@ The project requires configuration for MySQL connection, by manually entering th
 3. Start asking questions about your database in natural language using the chat input box.
 
 4. The application will provide SQL queries and natural language responses to your questions.
+
+## Future Additions
+1. Develope a query optimization system using machine learning to suggest more efficient SQL queries.
+
+2. Incorporate an AI-driven data visualization component to automatically generate relevant charts based on query results.
+
+3. Fine-Tune Mistral 7b for Text-to-SQL
+   
